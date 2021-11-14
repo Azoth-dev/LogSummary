@@ -1,0 +1,6 @@
+Assumption
+
+Input File assumption
+a) Only started and finished status is supported else app will throw errow
+b) Timestamp format is constant across the log file. 
+
