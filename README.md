@@ -1,2 +1,3 @@
 # LogSummary
  
+Code does following 
